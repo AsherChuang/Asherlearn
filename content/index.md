@@ -1,7 +1,6 @@
 ---
 title: Asher的知识库
 ---
-
 # 欢迎来到我的知识库
 
 记录所学，持续成长。
@@ -9,5 +8,3 @@ title: Asher的知识库
 ## 主要内容
 - [[code/index|💻 编程]]
 - [[daoism/index|☯️ 玄学]]
-- [[guitar/index|🎸 吉他]]
-- [[others/index|🗂️ 其他]]
