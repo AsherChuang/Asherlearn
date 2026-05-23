@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "asherlearn.com",
-ignorePatterns: ["private", "templates", ".obsidian", "**/attachments/**", "**/*.excalidraw.md", "Excalidraw/*.md"],
+    ignorePatterns: ["private", "templates", ".obsidian", "**/attachments/**", "**/*.excalidraw.md"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
